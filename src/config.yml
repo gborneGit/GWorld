@@ -1,0 +1,15 @@
+
+ender_dragon:
+  respawn: true
+  at: 21:30
+
+worlds:
+  '0':
+    name: 'world'
+    border: 10000
+  '1':
+    name: 'world_nether'
+    border: 5000
+  '2':
+    name: 'world_the_end'
+    broder: 5000

@@ -1,0 +1,13 @@
+name: GWorld
+main: fr.aang.gworld.Main
+version: 1.0
+author: [Aang]
+api-version: 1.19
+depend: [ Multiverse-Core ]
+permissions:
+  gworld.use:
+    description: Permet de reload
+    default: op
+commands:
+  monde:
+    description: Gere les commandes du plugin GWorld
