@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://github.com/gborneGit/gborneGit/blob/main/EcoCraft_logo_transparent.png" width="100"/>
+</p>
+
 # Plugin Minecraft pour le serveur EcoCraft : ajout de bordures et autres fonctions pour les mondes
 
 Ce plugin permet d'ajouter des bordures et d'autres petites fonctionnalités pour les mondes sur le serveur EcoCraft. Voici un aperçu des fonctionnalités disponibles et de leur utilisation.
